@@ -41,7 +41,7 @@ favicon: "/img/white-balance-incandescent.ico"
 
 black-favicon: "/img/white-balance-incandescent.ico"
 
-background-img: "../img/tahoe-downhill-adventure.jpg"
+background-img: ""
 
 ##############################
 # Dynamic Text on the Header #
