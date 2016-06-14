@@ -32,7 +32,7 @@ lang: "en"
 author: "Jordan C Walsh"
 title: "{ Jordan C Walsh }"
 description: "Technical Portfolio of Jordan C Walsh, providing project overviews and how-to's. All posts are original content."
-keywords: "Walsh, Jordan, portfolio, developer, software, programming, design, blog, projects, computer science"
+keywords: "Jordan Walsh, Jordan C Walsh, portfolio, developer, software, programming, code, blog, projects, computer science, Clayton State University"
 favicon: "/img/white-balance-incandescent.ico"
 
 ################
@@ -153,8 +153,6 @@ social:
     url: "https://github.com/JordanCWalsh"
   - title: "codepen"
     url: "https://codepen.io/jordancwalshsoftwaredeveloper/"
-  - title: "rss"
-    url: "/feed.xml"
 
 ############
 # 404 page #
